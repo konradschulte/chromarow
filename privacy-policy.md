@@ -58,7 +58,7 @@ Because Chromarow has no user accounts and online rooms use temporary random ide
 
 ## Contact
 
-For privacy questions or requests, email [chromarow.support@gmail.com](mailto:chromarow.support@gmail.com).
+For privacy questions or requests, email [chromarowapp@outlook.com](mailto:chromarowapp@outlook.com).
 
 Developer: [Konrad Schulte](https://www.linkedin.com/in/konradschulte/)
 
