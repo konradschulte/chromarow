@@ -42,7 +42,7 @@ Chromarow is configured to mix game sounds with other audio. You can also disabl
 
 ## Contact
 
-- Feedback, privacy questions, and bug reports: [chromarow.support@gmail.com](mailto:chromarow.support@gmail.com)
+- Feedback, privacy questions, and bug reports: [chromarowapp@outlook.com](mailto:chromarowapp@outlook.com)
 - Developer: [Konrad Schulte on LinkedIn](https://www.linkedin.com/in/konradschulte/)
 - Source projects: [Konrad Schulte on GitHub](https://github.com/konradschulte)
 
